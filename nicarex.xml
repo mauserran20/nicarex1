@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<tv generator-info-url="http://www.webgrabplus.com" generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.1.0.0 -- Jan van Straaten">
+
+
+-<channel id="Canal 2 de Nicaragua (Televicentro)">
+
+<display-name lang="es">Canal 2 de Nicaragua (Televicentro)</display-name>
+
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/2_de_nicaragua-mediano.png"/>
+
+<url>http://www.gatotv.com</url>
+
+</channel>
+
+
+-<channel id="Canal 2 de México (Canal Las Estrellas - XEW) ">
+
+<display-name lang="es">Canal 2 de México (Canal Las Estrellas - XEW) </display-name>
+
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png"/>
+
+<url>http://www.gatotv.com</url>
+
+</channel>
+
+
+-<channel id="Canal 13 de Nicaragua (Viva Nicaragua) ">
+
+<display-name lang="es">Canal 13 de Nicaragua (Viva Nicaragua) </display-name>
+
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_nicaragua-mediano.png"/>
+
+<url>http://www.gatotv.com</url>
+
+</channel>
+
+
+-<programme channel="Canal 2 de Nicaragua (Televicentro)" stop="20200804020000 -0500" start="20200804010000 -0500">
+
+<title lang="es">Primer Impacto</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de Nicaragua (Televicentro)" stop="20200804030000 -0500" start="20200804020000 -0500">
+
+<title lang="es">Tv Noticias - Edicion Estelar</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de Nicaragua (Televicentro)" stop="20200804040000 -0500" start="20200804030000 -0500">
+
+<title lang="es">Médicos Línea de Vida</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de Nicaragua (Televicentro)" stop="20200804050000 -0500" start="20200804040000 -0500">
+
+<title lang="es">La reina soy yo</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de Nicaragua (Televicentro)" stop="20200804060000 -0500" start="20200804050000 -0500">
+
+<title lang="es">Sin miedo a la verdad</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de Nicaragua (Televicentro)" stop="20200804070000 -0500" start="20200804060000 -0500">
+
+<title lang="es">Tv noticias Edición Nocturna</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de Nicaragua (Televicentro)" stop="20200804080000 -0500" start="20200804070000 -0500">
+
+<title lang="es">Primer Impacto</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de Nicaragua (Televicentro)" stop="20200804140000 -0500" start="20200804080000 -0500">
+
+<title lang="es">Cierre</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de Nicaragua (Televicentro)" stop="20200804143000 -0500" start="20200804140000 -0500">
+
+<title lang="es">CNN</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de Nicaragua (Televicentro)" stop="20200804150000 -0500" start="20200804143000 -0500">
+
+<title lang="es">TV Noticias Edición matutina</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de Nicaragua (Televicentro)" stop="20200804160000 -0500" start="20200804150000 -0500">
+
+<title lang="es">El Gordo y la Flaca</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de Nicaragua (Televicentro)" stop="20200804170000 -0500" start="20200804160000 -0500">
+
+<title lang="es">Cambio de vida</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de Nicaragua (Televicentro)" stop="20200804180000 -0500" start="20200804170000 -0500">
+
+<title lang="es">Lo que callamos las mujeres</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de Nicaragua (Televicentro)" stop="20200804190000 -0500" start="20200804180000 -0500">
+
+<title lang="es">A cada quien su santo</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de Nicaragua (Televicentro)" stop="20200804200000 -0500" start="20200804190000 -0500">
+
+<title lang="es">La vida es una canción</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de Nicaragua (Televicentro)" stop="20200804210000 -0500" start="20200804200000 -0500">
+
+<title lang="es">Top Model</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de Nicaragua (Televicentro)" stop="20200804220000 -0500" start="20200804210000 -0500">
+
+<title lang="es">TV Noticias - Edición al mediodía</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de Nicaragua (Televicentro)" stop="20200804230000 -0500" start="20200804220000 -0500">
+
+<title lang="es">Que pobres tan ricos</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de Nicaragua (Televicentro)" stop="20200805000000 -0500" start="20200804230000 -0500">
+
+<title lang="es">Esta historia me suena</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de México (Canal Las Estrellas - XEW) " stop="20200804023000 -0500" start="20200804003000 -0500">
+
+<title lang="es">Como dice el dicho</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de México (Canal Las Estrellas - XEW) " stop="20200804043000 -0500" start="20200804023000 -0500">
+
+<title lang="es">La Rosa de Guadalupe</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de México (Canal Las Estrellas - XEW) " stop="20200804053000 -0500" start="20200804043000 -0500">
+
+<title lang="es">El dragón</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de México (Canal Las Estrellas - XEW) " stop="20200804060000 -0500" start="20200804053000 -0500">
+
+<title lang="es">En Punto Denise Maerker En Vivo</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de México (Canal Las Estrellas - XEW) " stop="20200804063000 -0500" start="20200804060000 -0500">
+
+<title lang="es">40 y 20</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de México (Canal Las Estrellas - XEW) " stop="20200804070000 -0500" start="20200804063000 -0500">
+
+<title lang="es">Contacto deportivo En Vivo</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de México (Canal Las Estrellas - XEW) " stop="20200804080000 -0500" start="20200804070000 -0500">
+
+<title lang="es">Pare de sufrir</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de México (Canal Las Estrellas - XEW) " stop="20200804113000 -0500" start="20200804080000 -0500">
+
+<title lang="es">Paid Programing</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de México (Canal Las Estrellas - XEW) " stop="20200804120000 -0500" start="20200804113000 -0500">
+
+<title lang="es">Especial de R.T.C</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de México (Canal Las Estrellas - XEW) " stop="20200804123000 -0500" start="20200804120000 -0500">
+
+<title lang="es">Paid Programming</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de México (Canal Las Estrellas - XEW) " stop="20200804130000 -0500" start="20200804123000 -0500">
+
+<title lang="es">Farmacias de similares</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de México (Canal Las Estrellas - XEW) " stop="20200804133000 -0500" start="20200804130000 -0500">
+
+<title lang="es">Las noticias En Vivo</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de México (Canal Las Estrellas - XEW) " stop="20200804150000 -0500" start="20200804133000 -0500">
+
+<title lang="es">Despierta En Vivo</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de México (Canal Las Estrellas - XEW) " stop="20200804160000 -0500" start="20200804150000 -0500">
+
+<title lang="es">Al Aire con Paola Rojas En Vivo</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de México (Canal Las Estrellas - XEW) " stop="20200804190000 -0500" start="20200804160000 -0500">
+
+<title lang="es">Hoy En Vivo</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de México (Canal Las Estrellas - XEW) " stop="20200804203000 -0500" start="20200804190000 -0500">
+
+<title lang="es">Cuentamelo Ya! En Vivo</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de México (Canal Las Estrellas - XEW) " stop="20200804213000 -0500" start="20200804203000 -0500">
+
+<title lang="es">Recuerda y Gana</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de México (Canal Las Estrellas - XEW) " stop="20200804233000 -0500" start="20200804213000 -0500">
+
+<title lang="es">Corona de Lágrimas</title>
+
+</programme>
+
+
+-<programme channel="Canal 2 de México (Canal Las Estrellas - XEW) " stop="20200805003000 -0500" start="20200804233000 -0500">
+
+<title lang="es">Destilando amor</title>
+
+</programme>
+
+
+-<programme channel="Canal 13 de Nicaragua (Viva Nicaragua) " stop="20200804013000 -0500" start="20200804010000 -0500">
+
+<title lang="es">Lo que se vive - Edición estelar</title>
+
+</programme>
+
+
+-<programme channel="Canal 13 de Nicaragua (Viva Nicaragua) " stop="20200804020000 -0500" start="20200804013000 -0500">
+
+<title lang="es">The Wonder Years</title>
+
+</programme>
+
+
+-<programme channel="Canal 13 de Nicaragua (Viva Nicaragua) " stop="20200804040000 -0500" start="20200804020000 -0500">
+
+<title lang="es">Fabricando ilusiones</title>
+
+</programme>
+
+
+-<programme channel="Canal 13 de Nicaragua (Viva Nicaragua) " stop="20200804060000 -0500" start="20200804040000 -0500">
+
+<title lang="es">Appaloosa</title>
+
+</programme>
+
+
+-<programme channel="Canal 13 de Nicaragua (Viva Nicaragua) " stop="20200804080000 -0500" start="20200804060000 -0500">
+
+<title lang="es">Los tres chiflados</title>
+
+</programme>
+
+
+-<programme channel="Canal 13 de Nicaragua (Viva Nicaragua) " stop="20200804100000 -0500" start="20200804080000 -0500">
+
+<title lang="es">Appaloosa</title>
+
+</programme>
+
+
+-<programme channel="Canal 13 de Nicaragua (Viva Nicaragua) " stop="20200804120000 -0500" start="20200804100000 -0500">
+
+<title lang="es">Los tres chiflados</title>
+
+</programme>
+
+
+-<programme channel="Canal 13 de Nicaragua (Viva Nicaragua) " stop="20200804150000 -0500" start="20200804120000 -0500">
+
+<title lang="es">90' teras</title>
+
+</programme>
+
+
+-<programme channel="Canal 13 de Nicaragua (Viva Nicaragua) " stop="20200804183000 -0500" start="20200804150000 -0500">
+
+<title lang="es">Viva la vida</title>
+
+</programme>
+
+
+-<programme channel="Canal 13 de Nicaragua (Viva Nicaragua) " stop="20200804193000 -0500" start="20200804183000 -0500">
+
+<title lang="es">The Mentalist</title>
+
+</programme>
+
+
+-<programme channel="Canal 13 de Nicaragua (Viva Nicaragua) " stop="20200804200000 -0500" start="20200804193000 -0500">
+
+<title lang="es">The Wonder Years</title>
+
+</programme>
+
+
+-<programme channel="Canal 13 de Nicaragua (Viva Nicaragua) " stop="20200804203000 -0500" start="20200804200000 -0500">
+
+<title lang="es">Lo que se vive - Primera edición</title>
+
+</programme>
+
+
+-<programme channel="Canal 13 de Nicaragua (Viva Nicaragua) " stop="20200804210000 -0500" start="20200804203000 -0500">
+
+<title lang="es">Los fantásticos deportes 13 - Primera edición</title>
+
+</programme>
+
+
+-<programme channel="Canal 13 de Nicaragua (Viva Nicaragua) " stop="20200804220000 -0500" start="20200804210000 -0500">
+
+<title lang="es">The Mentalist</title>
+
+</programme>
+
+
+-<programme channel="Canal 13 de Nicaragua (Viva Nicaragua) " stop="20200804222000 -0500" start="20200804220000 -0500">
+
+<title lang="es">Peppa</title>
+
+</programme>
+
+
+-<programme channel="Canal 13 de Nicaragua (Viva Nicaragua) " stop="20200804224000 -0500" start="20200804222000 -0500">
+
+<title lang="es">Hora de aventura</title>
+
+</programme>
+
+
+-<programme channel="Canal 13 de Nicaragua (Viva Nicaragua) " stop="20200804230000 -0500" start="20200804224000 -0500">
+
+<title lang="es">El Increíble Mundo de Gumball</title>
+
+</programme>
+
+
+-<programme channel="Canal 13 de Nicaragua (Viva Nicaragua) " stop="20200804233000 -0500" start="20200804230000 -0500">
+
+<title lang="es">Clarence</title>
+
+</programme>
+
+
+-<programme channel="Canal 13 de Nicaragua (Viva Nicaragua) " stop="20200805000000 -0500" start="20200804233000 -0500">
+
+<title lang="es">Steven universe</title>
+
+</programme>
+
+</tv>
